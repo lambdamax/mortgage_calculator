@@ -9,7 +9,6 @@ A simple Python-based mortgage calculator that computes the monthly payment, tot
   - [Getting Started](#getting-started)
   - [Contributing](#contributing)
   - [License](#license)
-  - [Author](#author)
 
 ## Getting Started
 
@@ -17,8 +16,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/spacebakery/mortgage_calculator.git
-
+   git clone [repo-URL]
 2. Navigation to the project directory:
     ```bash
     cd mortgage_calculator
@@ -63,8 +61,3 @@ If you'd like to contribute to this project, please follow these steps:
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Author
-
-**Sebastian Hsiao**  
-GitHub: [spacebakery](https://github.com/spacebakery)
